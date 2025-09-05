@@ -5,10 +5,6 @@
   --accent-color: #ff8dcb;
   --paragraph-title-color: #353430;
   --main-title-color: #ffc2e6;
-  --main-title-shadow: var(--accent-color);
-  --title-decor-bg: var(--accent-color);
-  --title-decor-color: #353430;
-  --menu-color: #353430;
   --menu-hover: rgba(50, 49, 45, 0.4);
   --decoration-color: #353430;
 }
@@ -19,13 +15,9 @@
     --page-bg-image: url(../images/cover-image-light.png);
     --text-color: #353430;
     --accent-color: #ff8dcb;
-    --section-title-color:  #353430;
+    --section-title-color: #353430;
     --paragraph-title-color: #353430;
     --main-title-color: #ffc2e6;
-    --main-title-shadow: var(--accent-color);
-    --title-decor-bg: var(--accent-color);
-    --title-decor-color: #353430;
-    --menu-color: #353430;
     --menu-hover: rgba(50, 49, 45, 0.4);
     --decoration-color: #353430;
   }
