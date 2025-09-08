@@ -10,7 +10,7 @@
   --main-title-shadow: var(--accent-color);
   --title-decor-bg: var(--accent-color);
   --title-decor-color: #000028;
-  --menu-color: var(--accent-color);
-  --menu-hover: rgba(255, 0, 112, 0.4);
+  --menu-color: #ff0070;
+  --menu-hover: #ff007066;
   --decoration-color: var(--accent-color);
 }
