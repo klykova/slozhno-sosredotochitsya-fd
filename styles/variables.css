@@ -13,4 +13,5 @@
   --menu-color: #ff0070;
   --menu-hover: #ff007066;
   --decoration-color: var(--accent-color);
+  --rec-display: inline-block;
 }

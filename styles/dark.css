@@ -1,5 +1,4 @@
 :root.theme-dark {
-  --main-font: "IBM Plex mono", monospace;
   --page-bg-color: #000028;
   --page-bg-image: url(../images/cover-image-dark.png);
   --text-color: #f1b2ce;
@@ -13,4 +12,5 @@
   --menu-color: #ff0070;
   --menu-hover: #ff007066;
   --decoration-color: var(--accent-color);
+  --rec-display: inline-block;
 }
