@@ -129,9 +129,7 @@
   margin: 40px 0;
 }
 
-.section-why,
-.section-what,
-.section-how {
+.section {
   display: grid;
   gap: 20px;
 }
@@ -363,10 +361,6 @@
   .section-why,
   .section-how {
     grid-template-columns: 1fr 2.07fr;
-  }
-
-  .section-what {
-    display: grid;
   }
 
   .section-what .articles {
